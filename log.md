@@ -8,3 +8,12 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** This is my first day, I'm excited and happy for this challenge.  
 
 **Link to work:** [Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+
+
+### Day 2: January 3, 2017
+
+**Today's Progress**: I finished Tribute Page, the first front end project of FreeCodeCamp. I've spent more than one hour, but that was very well spent time. I aquired a lot of knowledge and I enjoyed to learn more about HTML and CSS.  
+
+**Thoughts:** I didn't make any code optiomization for CSS classes. I need to pratice more.  
+
+**Link to work:** [Chris Cornell Tribute Page](https://codepen.io/Vedderlino/full/OzjpBb/)
