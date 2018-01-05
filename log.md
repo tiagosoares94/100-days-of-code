@@ -17,3 +17,14 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** I didn't make any code optiomization for CSS classes. I need to pratice more.  
 
 **Link to work:** [Chris Cornell Tribute Page](https://codepen.io/Vedderlino/full/OzjpBb/)
+
+
+### Day 3: January 4, 2017
+
+**Today's Progress**: Usually I spent more than one hour doing the challenge, but today was a busy day. So, I finished my jQuery exercises at FreeCodeCamp and started to think about the layout of my next project, Personal Portfolio Webpage.
+
+**Thoughts:** I enjoyed jQuery, it is easy to use. Of course, i did some examples only, let's see if this will be easy later in a real project. 
+
+**Link to work:** <br>
+[jQuery Exercises](https://www.freecodecamp.org/map-aside#nested-collapsejQuery)<br>
+[Personal Porfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
