@@ -28,3 +28,11 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Link to work:** <br>
 [jQuery Exercises](https://www.freecodecamp.org/map-aside#nested-collapsejQuery)<br>
 [Personal Porfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 4: January 5, 2017
+
+**Today's Progress**: I'll study a little bit more of CSS and JS before make my Portfolio Webpage. Today I started to do the Javascript section of FreeCodeCamp. I made a lot of exercises.
+
+**Thoughts:** I'm excited to learn more about JS. I want to learn Node.js in the future.
+
+**Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
