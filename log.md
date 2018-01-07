@@ -36,3 +36,11 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** I'm excited to learn more about JS. I want to learn Node.js in the future.
 
 **Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
+
+### Day 5: January 6, 2017
+
+**Today's Progress**: I continued javascript exercises.
+
+**Thoughts:** Things is getting interesting.
+
+**Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
