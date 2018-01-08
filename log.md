@@ -44,3 +44,12 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** Things is getting interesting.
 
 **Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
+
+### Day 6: January 7, 2017
+
+**Today's Progress**: I finished javascript exercises from FreeCodeCamp. Tomorrow I'll start Personal Portfolio WebPage.
+
+**Thoughts:** JS module was little bit easy. I want to implement something using JS now.
+
+**Link to work:** [Personal Porfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
