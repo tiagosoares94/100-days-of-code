@@ -29,6 +29,7 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 [jQuery Exercises](https://www.freecodecamp.org/map-aside#nested-collapsejQuery)<br>
 [Personal Porfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
+
 ### Day 4: January 5, 2017
 
 **Today's Progress**: I'll study a little bit more of CSS and JS before make my Portfolio Webpage. Today I started to do the Javascript section of FreeCodeCamp. I made a lot of exercises.
@@ -36,6 +37,7 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** I'm excited to learn more about JS. I want to learn Node.js in the future.
 
 **Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
+
 
 ### Day 5: January 6, 2017
 
@@ -45,6 +47,7 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 
 **Link to work:** [JavaScript Exercises](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)
 
+
 ### Day 6: January 7, 2017
 
 **Today's Progress**: I finished javascript exercises from FreeCodeCamp. Tomorrow I'll start Personal Portfolio WebPage.
@@ -52,4 +55,14 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Thoughts:** JS module was little bit easy. I want to implement something using JS now.
 
 **Link to work:** [Personal Porfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+
+### Day 7: January 8, 2017
+
+**Today's Progress**: Today I've been busy, i was not feeling comfortable to create my Personal Portfolio Page. But, to maintain my progress, I wrote a script to scrape IMDB top 250 movies.
+
+**Thoughts:** I really enjoy to write code in Python.
+
+**Link to work:** [Scraping IMDB](https://gist.github.com/tiagosoares94/21e5e9d7b0c8d1f531c3f01e4f660c08)
+
 
