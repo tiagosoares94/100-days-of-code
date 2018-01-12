@@ -66,3 +66,5 @@ I decided to continue my progress at FreeCodeCamp, i'm finishing the jQuery part
 **Link to work:** [Scraping IMDB](https://gist.github.com/tiagosoares94/21e5e9d7b0c8d1f531c3f01e4f660c08)
 
 
+
+End of this challenge, for now. I need some detox, vacation.
